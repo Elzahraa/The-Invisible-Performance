@@ -18,7 +18,7 @@ This project is licensed under the terms of the GNU Affero General Public Licens
 
 ## Commercial License
 
-For commercial use, please contact [Your Contact Information] to obtain a separate commercial license.
+For commercial use, please contact the Broad Institute to obtain a separate commercial license.
 
 ## Acknowledgments
 
